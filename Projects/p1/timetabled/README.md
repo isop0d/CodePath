@@ -1,4 +1,4 @@
-# Web Development Project 1 - *LOTM rescource site*
+# Web Development Project 1 - *LOTM resource site*
 
 Submitted by: **Stefan**
 
