@@ -66,3 +66,10 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+.title {
+text-align: center;
+margin-top: 20px;
+margin-bottom: 20px;
+
+}
