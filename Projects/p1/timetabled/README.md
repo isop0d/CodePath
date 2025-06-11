@@ -1,10 +1,10 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - *LOTM rescource site*
 
-Submitted by: **Your Name Here**
+Submitted by: **Stefan**
 
-This web app: **insert description**
+This web app: **A basic website which shows different characters from the webnovel LOTM**
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
