@@ -1,0 +1,30 @@
+.app {
+  display: flex;
+  min-height: 100vh;
+  background: #1e1e1e;
+}
+
+/* Sidebar (Navbar) */
+.navbar {
+  width: 220px;
+  background: #222;
+  color: white;
+  padding: 1rem;
+  flex-shrink: 0;
+}
+
+/* Main content area */
+main {
+  flex: 1;                  /* Take up the rest of the screen */
+  display: flex;            
+  justify-content: center;  /* Center horizontally */
+  align-items: flex-start;   /* Top align (use center if you want vertical center) */
+  padding: 2rem;
+  overflow-y: auto;
+}
+
+/* Inner container for each page */
+.page-container {
+  width: 100%;
+  max-width: 1000px;         /* Controls page width */
+}
